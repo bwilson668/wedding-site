@@ -6550,6 +6550,15 @@ html, body {
   .hero.is-primary .nav-menu {
     background-color: rgba(0, 0, 0, 0.5); } }
 
+.has-stack {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  justify-content: space-between; }
+
 .p-b {
   padding-bottom: 1em; }
 

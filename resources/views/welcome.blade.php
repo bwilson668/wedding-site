@@ -73,24 +73,21 @@
             </div>
             <div class="columns">
                 <div class="column">
+                    <a href="#" class="modal-button" data-target="#06-eng">
+                        <img src="https://cdn.benjaminandrewwilson.com/06-20161015-MichelleBen-Wilson-eng-thumb.jpg">
+                    </a>
+                </div>
+                <div class="column has-stack">
                     <div>
                         <a href="#" class="modal-button" data-target="#01-eng">
                             <img src="https://cdn.benjaminandrewwilson.com/01-20161015-MichelleBen-Wilson-eng-thumb.jpg">
                         </a>
-
                     </div>
-
                     <div>
                         <a href="#" class="modal-button" data-target="#07-eng">
                             <img src="https://cdn.benjaminandrewwilson.com/07-20161015-MichelleBen-Wilson-eng-thumb.jpg">
                         </a>
-
                     </div>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#06-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/06-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
                 </div>
                 <div class="column">
                     <a href="#" class="modal-button" data-target="#10-eng">
@@ -121,6 +118,11 @@
                         <img src="https://cdn.benjaminandrewwilson.com/21-20161015-MichelleBen-Wilson-eng-thumb.jpg">
                     </a>
                 </div>
+                <div class="column">
+                    <a href="#" class="modal-button" data-target="#36-eng">
+                        <img src="https://cdn.benjaminandrewwilson.com/36-20161015-MichelleBen-Wilson-eng-thumb.jpg">
+                    </a>
+                </div>
             </div>
             <div class="columns">
                 <div class="column">
@@ -131,23 +133,6 @@
                 <div class="column">
                     <a href="#" class="modal-button" data-target="#33-eng">
                         <img src="https://cdn.benjaminandrewwilson.com/33-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-            </div>
-            <div class="columns">
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#34-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/34-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#36-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/36-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#37-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/37-20161015-MichelleBen-Wilson-eng-thumb.jpg">
                     </a>
                 </div>
             </div>
@@ -167,9 +152,12 @@
                         <img src="https://cdn.benjaminandrewwilson.com/42-20161015-MichelleBen-Wilson-eng-thumb.jpg">
                     </a>
                 </div>
-                <div class="column">
+                <div class="column has-stack">
                     <a href="#" class="modal-button" data-target="#43-eng">
                         <img src="https://cdn.benjaminandrewwilson.com/43-20161015-MichelleBen-Wilson-eng-thumb.jpg">
+                    </a>
+                    <a href="#" class="modal-button" data-target="#37-eng">
+                        <img src="https://cdn.benjaminandrewwilson.com/37-20161015-MichelleBen-Wilson-eng-thumb.jpg">
                     </a>
                 </div>
             </div>
@@ -187,11 +175,6 @@
             </div>
             <div class="columns">
                 <div class="column">
-                    <a href="#" class="modal-button" data-target="#77-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/77-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
                     <a href="#" class="modal-button" data-target="#80-eng">
                         <img src="https://cdn.benjaminandrewwilson.com/80-20161015-MichelleBen-Wilson-eng-thumb.jpg">
                     </a>
@@ -199,6 +182,11 @@
                 <div class="column">
                     <a href="#" class="modal-button" data-target="#83-eng">
                         <img src="https://cdn.benjaminandrewwilson.com/83-20161015-MichelleBen-Wilson-eng-thumb.jpg">
+                    </a>
+                </div>
+                <div class="column">
+                    <a href="#" class="modal-button" data-target="#77-eng">
+                        <img src="https://cdn.benjaminandrewwilson.com/77-20161015-MichelleBen-Wilson-eng-thumb.jpg">
                     </a>
                 </div>
             </div>
