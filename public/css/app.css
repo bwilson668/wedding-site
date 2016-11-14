@@ -6526,8 +6526,8 @@ html, body {
   font-family: 'Delius Swash Caps', cursive; }
 
 .is-cover {
-  background: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.35)), url(/img/01-20161015-MichelleBen-Wilson-eng.jpg) center center;
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.35)), url(/img/01-20161015-MichelleBen-Wilson-eng.jpg) center center;
+  background: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.35)), url(https://cdn.benjaminandrewwilson.com/img/engagement/01-20161015-MichelleBen-Wilson-eng.jpg) center center;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.35)), url(https://cdn.benjaminandrewwilson.com/img/engagement/01-20161015-MichelleBen-Wilson-eng.jpg) center center;
   background-size: cover; }
 
 .with-pattern {
@@ -6542,6 +6542,9 @@ html, body {
 
 .hero-head {
   background: rgba(0, 0, 0, 0.5); }
+  .hero-head::before {
+    -webkit-filter: blur(50px);
+    filter: blur(50px); }
 
 @media screen and (max-width: 768px) {
   .hero.is-primary .nav-menu {
