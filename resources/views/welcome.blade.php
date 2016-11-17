@@ -63,134 +63,64 @@
         </div>
     </section>
 
-    <section class="section with-pattern">
-        <div class="container box">
-            <h2 class="title is-2">Photos</h2>
-            <h4 class="subtitle">Engagement Shoot</h4>
-            <div class="content">
-                <p>We decided to head back to Furman where we met and get a little taste of fall along the way!</p>
-                <p>The shoot was done by the fantastic Ben Chrisman of <a href="http://www.chrismanstudios.com/" target="_BLANK">Chrisman Studios</a> along with lighting help from _____. A big thank you to them!
-            </div>
+    <section class="section">
+        <div class="container">
+            <h2 class="title is-2">Our Wedding</h2>
+
+            <h3 class="title is-3 has-text-centered">Ceremony</h3>
+            <hr class="is-styled">
             <div class="columns">
                 <div class="column">
-                    <a href="#" class="modal-button" data-target="#06-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/06-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
+                    <div class="box">
+                        <img src="https://cdn.benjaminandrewwilson.com/img/wedding/sacred_heart.jpg" class="is-rounded">
+                    </div>
                 </div>
-                <div class="column has-stack">
-                    <a href="#" class="modal-button p-b" data-target="#01-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/01-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                    <a href="#" class="modal-button" data-target="#07-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/07-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#10-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/10-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-            </div>
-            <div class="columns">
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#14-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/14-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
+                <div class="column content">
+                    <h3 class="title">Sacred Heart Catholic Church</h3>
+                    <p>
+                        Tucked in the heart of downtown Tampa, Sacred Heart offers beautiful architecture, stained glass, and fond memories - including Mr. and Mrs. Whidden's wedding!
+                    </p>
+                    <div class="columns is-mobile">
+                        <div class="column is-3">
+                            <p class="is-strong">Address:</p>
+                            <p class="is-strong">Time:</p>
+                            <p class="is-strong">Attire:</p>
+                        </div>
+                        <div class="column">
+                            <p>509 N Florida Ave, Tampa, FL</p>
+                            <p>2:30 PM - Feburary 24<sup>th</sup>, 2018</p>
+                            <p>Black Tie</p>
+                        </div>
+                    </div>
                 </div>
                 <div class="column">
-                    <a href="#" class="modal-button" data-target="#16-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/16-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-            </div>
-            <div class="columns">
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#20-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/20-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#21-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/21-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#36-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/36-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-            </div>
-            <div class="columns">
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#25-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/25-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#33-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/33-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-            </div>
-            <div class="columns">
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#40-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/40-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#41-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/41-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#42-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/42-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column has-stack">
-                    <a href="#" class="modal-button p-b" data-target="#43-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/43-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                    <a href="#" class="modal-button" data-target="#37-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/37-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-            </div>
-            <div class="columns">
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#59-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/59-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#68-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/68-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-            </div>
-            <div class="columns">
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#80-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/80-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#83-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/83-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
-                </div>
-                <div class="column">
-                    <a href="#" class="modal-button" data-target="#77-eng">
-                        <img src="https://cdn.benjaminandrewwilson.com/img/engagement/77-20161015-MichelleBen-Wilson-eng-thumb.jpg">
-                    </a>
+                    <div class="box is-full has-min-height">
+                        <div id="church-map" class="is-map"></div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
+    @include('photos.photos')
     @include('photos.photo_modals')
 
     <script src="/js/app.js"></script>
+    <script>
+        var initMap = function() {
+            var map = new google.maps.Map(document.querySelector('#church-map'), {
+                center: { lat: 27.949341, lng: -82.4594551 },
+                zoom: 15,
+                disableDefaultUI: true,
+                disableDoubleClickZoom: true,
+                fullscreenControl: false,
+                gestureHandling: 'none',
+                keyboardShortcuts: false,
+                panControl: false,
+            });
+        };
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key={{ config('services.maps.key') }}&callback=initMap"
+    async defer></script>
 </body>
 </html>
